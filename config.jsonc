@@ -40,7 +40,7 @@
     {
       "type": "command",
       "shell": "bash",
-      "key": "",
+      "key": " ",
       "text": "shuf -n 1 \"$HOME/.config/fastfetch/phrases.txt\""
     }
   ]
